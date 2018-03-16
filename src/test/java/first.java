@@ -7,7 +7,10 @@ public static void main()
   System.out.println("others ");
   System.out.println("branch ");
   System.out.println("tag ");
-  System.out.println("helooo")
+  System.out.println("helooo");
+
+}
+public void mul(){
 
 }
 }
