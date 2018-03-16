@@ -10,4 +10,6 @@ public static void main()
   System.out.println("helooo")
 
 }
+  public void add(){
+  }
 }
