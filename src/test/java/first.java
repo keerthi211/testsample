@@ -16,4 +16,6 @@ public void mul(){
 
 
 }
+  public void add(){
+  }
 }
