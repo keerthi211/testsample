@@ -11,6 +11,9 @@ public static void main()
 
 }
 public void mul(){
+    int a;
+
+
 
 }
 }
